@@ -1,1 +1,1 @@
-# bor_review
+# BATTLE OF RUNTEQ Vol2コードレビュー
